@@ -1,7 +1,0 @@
-apiVersion: v1
-data:
-  REDIS_OUTPUT_KEY: julioferreira-proj3-output
-kind: ConfigMap
-metadata:
-  name: outputkey
-  namespace: julioferreira

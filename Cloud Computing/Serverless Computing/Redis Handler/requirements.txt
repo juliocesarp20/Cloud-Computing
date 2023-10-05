@@ -1,7 +1,0 @@
-numpy
-redis
-matplotlib
-pandas
-requests
-sklearn
-tqdm
